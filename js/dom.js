@@ -14,7 +14,6 @@ var dom = (function() {
 
                 blocker.style.display = 'none';
             } else {
-                console.log('foo');
                 controls.enabled = false;
 
                 blocker.style.display = '-webkit-box';
